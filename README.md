@@ -1,4 +1,4 @@
-# haberman-eda
+# Haberman-EDA
 Exploratory data analysis on haberman dataset
 
 ## Haberman Dataset
